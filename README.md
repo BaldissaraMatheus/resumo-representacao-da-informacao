@@ -1,6 +1,42 @@
 # Representacao da Informação
 Resumo do conteúdo da disciplina Representação da Informação do curso de Sistemas de Informação da UFF - 1° semestre/2019
 
+## Dado, informação e conhecimento
+
+### Dado
+> São registros simbólicos por meio dos quais representam-se fatos, conceitos ou estados, que caracterizam uma entidade ou processo em um determinado ponto do tempo.
+*(URDANETA, 1991)*
+
+Possui natureza puramente objetiva.
+
+**Propósito:** Registrar a verdadeira imagem de um fenômeno ou acontecimento real.
+
+### Informação
+ > Informação são dados ou matéria informacional estruturada de maneira afetiva ou potencialmente significativa.
+*(URDANETA, 1991)*
+
+O importante é sua estruturação - a conexão relacional dos dados em função da obtenção de um sentido relevante.
+
+Possui natureza objetiva-subjetiva - é descrita de forma objetiva, mas seu significado é subjetivo. Seu significado depende da perspectiva do receptor.
+
+O **estado informacional** ocorre quando algo novo se junta a algo sabido em um contexto.
+
+**Propósito:** Ajudar na tomada de decisões e/ou resolver problemas ou perceber uma oportunidade.
+
+### Conhecimento
+> Conhecimento é a informação como compreensão, isto é, de estruturas informacionais que, ao internalizarem-se, se integram a sistemas de relacionamento simbólico de mais alto nível e permanência.
+*(URDANETA, 1991)*
+
+Requer a vivência do objeto do conhecimento.
+
+É puramente subjetivo.
+
+O **estado do conhecimento** ocorre quando encontramos condições de interpretar o que significa a informação.
+
+**Propósito:** Melhorar nossas vidas. No contexto dos negócios, criar ou aumentar o valor para a empresa. 
+
+tl;dr: *Gerar valor*. 
+
 ## Linguagens Documentárias
 ### O que são:
 
