@@ -1,6 +1,8 @@
 # Representacao da Informação
 Resumo do conteúdo da disciplina Representação da Informação do curso de Sistemas de Informação da UFF - 1° semestre/2019
 
+Este resumo - *até o momento* - **não** cobre toda a matéria do curso, ele foca apenas no conteúdo apontado pelo roteiro de estudo para a P1. Ele não substitui a leitura dos slides apresentados em aula e dos artigos que estão no conexão uff, mas serve como material complementar para o estudo dos tópicos principais. 
+
 ## Dado, informação e conhecimento
 
 ### Dado
