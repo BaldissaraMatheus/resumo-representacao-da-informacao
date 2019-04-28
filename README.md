@@ -84,10 +84,12 @@ Estruturar e organizar sistematicamente conceitos. Seu produto é um **modelo de
 
 #### Exemplo:
 **Representação do conhecimento:**
+
 ![alo](img/fumaca1.jpg)
 >Animal mamífero quadrúpede que late e abana o rabo quando está feliz, da raça Dachshund, macho.
 
 **Representação da informação:**
+
 ![alo](img/fumaca2.jpg)
 >Nome: Fumaça -
 Data de nascimento: 10/12/2008
