@@ -39,6 +39,59 @@ O **estado do conhecimento** ocorre quando encontramos condições de interpreta
 
 tl;dr: *Gerar valor*. 
 
+## Organização da informação
+Organização da informação é um processo que envolve a descrição física (*catalogação*) e de conteúdo (*indexação e classificação*) dos objetos informacionais. Compreende a organiação de um conjunto de objetos informacionais para arranjá-los sistematicamente em coleções e arquivos, tanto tradicionais quanto eletrônicos. O produto deste processo é a **representação da informação**.
+
+Organização da informação é formada por 3 partes: *Entrada (coisa)*, *processo (ação)* e *resultado (coisa)*.
+
+**Entrada** - Objetos informacionais - *e. g.*, livros, fotos.
+
+**Processo** - Descrição física e de conteúdo.
+
+**Resultado** - Representação da informação (informação representada)
+
+### Objetivo
+Possibilitar o acesso ao conhecimento *potencialmente* contido na informação.
+
+#### Para quê
+* Localizar documentos em repositórios ou base de dados como resultado de uma consulta por meio de metadados;
+* Encontrar documentos relacionados.
+
+### Ações
+* Tratamento descritivo (catalogação): Representação descritiva da forma física do documento - *e. g.*, título, autor, edição, data, etc.
+* Tratamento temático: Diz respeito ao assunto tratado no documento, compreende a análise documentária e abrange as atividades de indexação e classificação.
+
+*Catalogação*: Descrição física do documento.
+
+*Indexação*: Descrição temática do documento que utiliza linguagem natural.
+
+*Classificação*: Descrição temática do documento que utiliza tabelas classificatórias - *e. g.*, CDD, CDU.
+
+## Organização do Conhecimento
+
+### Objetivo:
+Auxiliar o processo de entendimento de **conceitos** sobre uma temática.
+
+### Para quê
+Estruturar e organizar sistematicamente conceitos. Seu produto é um **modelo de mundo** que constitui em uma abstração da realidade - *e. g.*, mapa conceitual.
+
+
+## Representação da informação x Representação do conhecimento
+
+### Diferenças
+* RC e OC: Seus objetos são conceitos - mundo da cognição e das ideias.
+* RI e OI: Seus objetos são instâncias particulares e individuais.
+
+#### Exemplo:
+**Representação do conhecimento:**
+![alo](img/fumaca1.jpg)
+>Animal mamífero quadrúpede que late e abana o rabo quando está feliz, da raça Dachshund, macho.
+
+**Representação da informação:**
+![alo](img/fumaca2.jpg)
+>Nome: Fumaça -
+Data de nascimento: 10/12/2008
+
 ## Linguagens Documentárias
 ### O que são:
 
